@@ -1,0 +1,63 @@
+{
+    "richContent": [
+        [
+            {
+                "type": "description",
+                "text": [
+                    "Hi there, Want to be in touch?",
+                    "Connect with me on my social handles 👇"
+                ]
+            },
+            {
+                "type": "chips",
+                "options": [
+                    {
+                        "text": "Facebook",
+                        "image": {
+                            "src": {
+                                "rawUrl": "https://png.pngtree.com/element_our/png/20181011/facebook-social-media-icon-design-template-vector-png_126986.jpg"
+                            }
+                        },
+                        "link": "https://www.facebook.com/abhishek.bp.cp"
+                    },
+                    {
+                        "text": "Instagram",
+                        "image": {
+                            "src": {
+                                "rawUrl": "https://png.pngtree.com/element_our/png/20181011/instagram-social-media-icon-design-template-vector-png_126996.jpg"
+                            }
+                        },
+                        "link": "https://www.instagram.com/_.abhi.s._"
+                    },
+                    {
+                        "text": "Twitter",
+                        "image": {
+                            "src": {
+                                "rawUrl": "https://png.pngtree.com/png-clipart/20190903/original/pngtree-twitter-free-button-png-image-png-image_4436094.jpg"
+                            }
+                        },
+                        "link": "https://twitter.com/_abhishek_404"
+                    },
+                    {
+                        "text": "Linkedin",
+                        "image": {
+                            "src": {
+                                "rawUrl": "https://png.pngtree.com/png-clipart/20190613/original/pngtree-linkedin-icon-logo-png-image_3560497.jpg"
+                            }
+                        },
+                        "link": "https://www.linkedin.com/in/abhi-"
+                    },
+                    {
+                        "text": "Github",
+                        "image": {
+                            "src": {
+                                "rawUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                            }
+                        },
+                        "link": "https://github.com/abhi3315"
+                    }
+                ]
+            }
+        ]
+    ]
+}
