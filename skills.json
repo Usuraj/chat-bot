@@ -1,0 +1,16 @@
+{
+    "richContent": [
+        [
+            {
+                "type": "accordion",
+                "title": "Technical Skills",
+                "text": "C/C++, Python, JS"
+            },
+            {
+                "type": "accordion",
+                "title": "Soft Skills",
+                "text": "Time management, Communication"
+            }
+        ]
+    ]
+}
