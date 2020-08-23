@@ -1,0 +1,39 @@
+{
+    "richContent": [
+        [
+            {
+                "type": "description",
+                "text": [
+                    "Sorry, I did not understand what did you say.",
+                    "Please choose an option from below:"
+                ]
+            },
+            {
+                "type": "chips",
+                "options": [
+                    {
+                        "text": "About me"
+                    },
+                    {
+                        "text": "Academics"
+                    },
+                    {
+                        "text": "Skills"
+                    },
+                    {
+                        "text": "Projects"
+                    },
+                    {
+                        "text": "Contact me"
+                    },
+                    {
+                        "text": "Work Experience"
+                    },
+                    {
+                        "text": "Social Handles"
+                    }
+                ]
+            }
+        ]
+    ]
+}
