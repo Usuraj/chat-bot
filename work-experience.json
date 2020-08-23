@@ -1,0 +1,18 @@
+{
+    "richContent": [
+        [
+            {
+                "type": "accordion",
+                "title": "Chat-bot Workshop",
+                "subtitle": "6 hours",
+                "text": "I have completed a 6 hours workshop for creating a chat-bot."
+            },
+            {
+                "type": "accordion",
+                "title": "Intern at Umbrix",
+                "subtitle": "April 2020-Cont...",
+                "text": "I am an intern at Umbrix Pvt Ltd."
+            }
+        ]
+    ]
+}
