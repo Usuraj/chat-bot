@@ -1,0 +1,23 @@
+{
+    "richContent": [
+        [
+            {
+                "title": "Abhishek Kumar Sharma",
+                "subtitle": "Full Stack Developer",
+                "image": {
+                    "src": {
+                        "rawUrl": "https://abhi3315.ml/image/photo.jpg"
+                    }
+                },
+                "type": "info"
+            },
+            {
+                "type": "description",
+                "text": [
+                    "Hi, I'm Abhishek Kumar Sharma, a Full Stack Developer who loves coding, solving problems, and building creative apps. I'm an enthusiastic coder and never miss any opportunity to learn new technology. For quite a while now, I have used MERN as my primary stack. I believe in project-based learning and extensively apply my knowledge in several hackathons and projects.",
+                    "Go on, scroll down further to discover more about me!"
+                ]
+            }
+        ]
+    ]
+}

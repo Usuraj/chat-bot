@@ -1,0 +1,48 @@
+{
+    "richContent": [
+        [
+            {
+                "type": "list",
+                "subtitle": "2018-22",
+                "text": [
+                    "I'am pursuing B.Tech from AKTU."
+                ],
+                "title": "B.Tech"
+            },
+            {
+                "type": "description",
+                "text": [
+                    "I'am pursuing B.Tech from AKTU."
+                ]
+            },
+            {
+                "type": "divider"
+            },
+            {
+                "subtitle": "2016-17",
+                "title": "Intermediate",
+                "type": "list"
+            },
+            {
+                "type": "description",
+                "text": [
+                    "I have completed my intermediate from UP Board"
+                ]
+            },
+            {
+                "type": "divider"
+            },
+            {
+                "title": "High School",
+                "subtitle": "2014-15",
+                "type": "list"
+            },
+            {
+                "text": [
+                    "I have complated High School from UP Board."
+                ],
+                "type": "description"
+            }
+        ]
+    ]
+}
